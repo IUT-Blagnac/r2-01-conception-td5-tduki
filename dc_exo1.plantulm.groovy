@@ -1,4 +1,5 @@
-@startuml dc
+@startuml 
+dc
 
 skinparam  classAttributeIconSize  0
 
@@ -9,7 +10,7 @@ masquer les  méthodes vides
 Entreprise  "1"  -- "*" Artisan : gerer
 Entreprise  "1"  -- "*" Chantier : possède
 Chantier  "*"  -- "*" Artisan 
-( Artisan , Chantier ) ..  affectant
+( Artisan , Chantier ) ..  affecter
 
 Classe  Entreprise {
     nom
