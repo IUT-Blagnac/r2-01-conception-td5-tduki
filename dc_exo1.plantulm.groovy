@@ -1,40 +1,39 @@
-@startuml 
-dc
+@startuml dc
 
-skinparam  classAttributeIconSize  0
+skinparam classAttributeIconSize 0
 
-masquer le  cercle
-masquer les  membres vides 
-masquer les  méthodes vides 
+hide circle
+hide empty members
+hide empty methods
 
-Entreprise  "1"  -- "*" Artisan : gerer
-Entreprise  "1"  -- "*" Chantier : possède
-Chantier  "*"  -- "*" Artisan 
-( Artisan , Chantier ) ..  affecter
+Entreprise "1" -- "*" Artisan : gerer
+Entreprise "1" -- "*" Chantier : posséder
+Chantier "*" -- "*" Artisan 
+(Artisan, Chantier) .. affecter
 
-Classe  Entreprise {
+Class Entreprise {
     nom
     adresse
     nbEmployés
 }
 
- Artisan de classe {
+Class Artisan {
     nom
     coordonnées
     spécialité
 }
 
- Chantier de classe {
+Class Chantier {
     adresse
     dateDébut
     dateFin
 }
 
-Classe  affectant {
+Class affecter {
     nombreHeures
     débutMission
     finMission
-    getPayeArtisan ()
+    getPayeArtisan()
 }
 
 @enduml
