@@ -34,7 +34,7 @@ NOM:: HAMNICH
 
 Prénom:: ANIS
 
-Groupe #::
+Groupe #:: 1 A
 
 [%interactive]
 - [X] Enseignants
