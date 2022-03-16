@@ -30,11 +30,11 @@ Ce TP vise à reprendre les diagrammes des UC et les lier avec le diagramme de c
 
 == À propos...
 
-NOM:: DOE
+NOM:: HAMNICH
 
-Prénom:: John
+Prénom:: ANIS
 
-Groupe #::
+Groupe #:: 1 A
 
 [%interactive]
 - [X] Enseignants

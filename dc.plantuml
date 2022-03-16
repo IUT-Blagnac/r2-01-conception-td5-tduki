@@ -1,0 +1,56 @@
+
+@startuml diagramme DC
+
+
+
+Entreprise -- "0..*" Employe
+Entreprise -- "0..*" Chantier
+(Chantier,Employe) .. Affecter
+
+
+class Entreprise {
+    String nom
+    String adresse
+
+    String getNom()
+    String getAdresse()
+    String setNom()
+    String setAdresse()
+
+}
+
+class Employe {
+    double salaireHor
+    String coord
+
+    double getSalaire()
+    String getCoord()
+    double setSalaire()
+    String setCoord()
+}
+
+class Chantier {
+    String dateDeb
+    String dateFin
+    String adresse
+
+    String getDateDeb()
+    String getDateFin()
+    String getAdresse()
+    String setDateDeb()
+    String setDateFin()
+    String setAdresse()
+}
+
+class Affecter {
+    double nbHeure
+    String debut
+    String fin
+    double paie
+
+    double getPaie()
+    
+
+}
+
+@enduml
