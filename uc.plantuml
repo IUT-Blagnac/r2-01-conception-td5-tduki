@@ -1,0 +1,39 @@
+@startuml diagramme UC
+
+usecase g1 as "Gérer les chantiers"
+usecase g2 as "Gérer les artisans"
+usecase g3 as "Gérer les affectations"
+usecase o1 as "Obtenir les dates"
+usecase o2 as "Obtenir l'adresse"
+usecase o3 as "Obtenir le salaire"
+usecase o4 as "Obtenir les coordonnées"
+usecase o5 as "Obtenir le nb d'heures"
+usecase o6 as "Dates de mission"
+usecase c as "Calculer salaire selon chantier"
+
+
+
+actor Entreprise 
+
+
+Entreprise -right-> g1
+Entreprise -down-> g2
+Entreprise -left-> g3
+Entreprise -up-> c
+
+g1 -right-> o1
+g1 -right-> o2
+g2 -down-> o3
+g2 -down-> o4
+g3 -left-> o5
+g3 -down-> o6
+
+
+g1 -[hidden]-> g2
+g2 -[hidden]-> g3
+o1 -[hidden]-> o2
+o3 -[hidden]-> o4
+o6 -[hidden]-> o5
+
+
+@enduml

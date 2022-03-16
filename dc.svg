@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="753px" preserveAspectRatio="none" style="width:240px;height:753px;background:#FFFFFF;" version="1.1" viewBox="0 0 240 753" width="240px" zoomAndPan="magnify"><defs><filter height="300%" id="f1mq4fuxic7k7c" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[e5da348f9a286ac789819f64e84f1dc7]
+class Entreprise--><rect codeLine="9" fill="#FEFECE" filter="url(#f1mq4fuxic7k7c)" height="131.0156" id="Entreprise" style="stroke:#A80036;stroke-width:1.5;" width="108" x="17.5" y="7"/><ellipse cx="41.05" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M43.8156,18.875 Q43.9719,18.6563 44.1594,18.5469 Q44.3469,18.4375 44.5656,18.4375 Q44.9406,18.4375 45.175,18.6953 Q45.4094,18.9531 45.4094,19.5625 L45.4094,21.0156 Q45.4094,21.625 45.175,21.8906 Q44.9406,22.1563 44.5656,22.1563 Q44.2219,22.1563 44.0188,21.9531 Q43.8156,21.7656 43.7063,21.25 Q43.6594,20.8906 43.4719,20.7031 Q43.1438,20.3281 42.5344,20.1094 Q41.925,19.8906 41.3,19.8906 Q40.5344,19.8906 39.9016,20.2188 Q39.2688,20.5469 38.7766,21.2969 Q38.2844,22.0469 38.2844,23.0781 L38.2844,24.1719 Q38.2844,25.4063 39.175,26.2266 Q40.0656,27.0469 41.6594,27.0469 Q42.5969,27.0469 43.2531,26.7969 Q43.6438,26.6406 44.0656,26.2031 Q44.3313,25.9375 44.4797,25.8594 Q44.6281,25.7813 44.8313,25.7813 Q45.1594,25.7813 45.4172,26.0391 Q45.675,26.2969 45.675,26.6406 Q45.675,26.9844 45.3313,27.3906 Q44.8313,27.9688 44.0344,28.2969 Q42.9563,28.75 41.6594,28.75 Q40.1438,28.75 38.9406,28.125 Q37.9563,27.625 37.2688,26.5547 Q36.5813,25.4844 36.5813,24.2031 L36.5813,23.0469 Q36.5813,21.7188 37.1984,20.5703 Q37.8156,19.4219 38.9094,18.8047 Q40.0031,18.1875 41.2375,18.1875 Q41.9719,18.1875 42.6203,18.3516 Q43.2688,18.5156 43.8156,18.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="57" x="56.95" y="27.9102">Entreprise</text><line style="stroke:#A80036;stroke-width:1.5;" x1="18.5" x2="124.5" y1="39" y2="39"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="51" x="23.5" y="54.4189">String nom</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="71" x="23.5" y="68.2549">String adresse</text><line style="stroke:#A80036;stroke-width:1.5;" x1="18.5" x2="124.5" y1="74.6719" y2="74.6719"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="75" x="23.5" y="90.0908">String getNom()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="96" x="23.5" y="103.9268">String getAdresse()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="75" x="23.5" y="117.7627">String setNom()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="96" x="23.5" y="131.5986">String setAdresse()</text><!--MD5=[9a2897d96cfcc917fe91044b2ccff0ad]
+class Employe--><rect codeLine="20" fill="#FEFECE" filter="url(#f1mq4fuxic7k7c)" height="131.0156" id="Employe" style="stroke:#A80036;stroke-width:1.5;" width="103" x="7" y="608"/><ellipse cx="32.35" cy="624" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M35.1156,619.875 Q35.2719,619.6563 35.4594,619.5469 Q35.6469,619.4375 35.8656,619.4375 Q36.2406,619.4375 36.475,619.6953 Q36.7094,619.9531 36.7094,620.5625 L36.7094,622.0156 Q36.7094,622.625 36.475,622.8906 Q36.2406,623.1563 35.8656,623.1563 Q35.5219,623.1563 35.3188,622.9531 Q35.1156,622.7656 35.0063,622.25 Q34.9594,621.8906 34.7719,621.7031 Q34.4438,621.3281 33.8344,621.1094 Q33.225,620.8906 32.6,620.8906 Q31.8344,620.8906 31.2016,621.2188 Q30.5688,621.5469 30.0766,622.2969 Q29.5844,623.0469 29.5844,624.0781 L29.5844,625.1719 Q29.5844,626.4063 30.475,627.2266 Q31.3656,628.0469 32.9594,628.0469 Q33.8969,628.0469 34.5531,627.7969 Q34.9438,627.6406 35.3656,627.2031 Q35.6313,626.9375 35.7797,626.8594 Q35.9281,626.7813 36.1313,626.7813 Q36.4594,626.7813 36.7172,627.0391 Q36.975,627.2969 36.975,627.6406 Q36.975,627.9844 36.6313,628.3906 Q36.1313,628.9688 35.3344,629.2969 Q34.2563,629.75 32.9594,629.75 Q31.4438,629.75 30.2406,629.125 Q29.2563,628.625 28.5688,627.5547 Q27.8813,626.4844 27.8813,625.2031 L27.8813,624.0469 Q27.8813,622.7188 28.4984,621.5703 Q29.1156,620.4219 30.2094,619.8047 Q31.3031,619.1875 32.5375,619.1875 Q33.2719,619.1875 33.9203,619.3516 Q34.5688,619.5156 35.1156,619.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="48" x="48.65" y="628.9102">Employe</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="109" y1="640" y2="640"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="84" x="13" y="655.4189">double salaireHor</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="13" y="669.2549">String coord</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="109" y1="675.6719" y2="675.6719"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="91" x="13" y="691.0908">double getSalaire()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="83" x="13" y="704.9268">String getCoord()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="91" x="13" y="718.7627">double setSalaire()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="83" x="13" y="732.5986">String setCoord()</text><!--MD5=[7231450f633845da6e92cf0373678125]
+class Chantier--><rect codeLine="30" fill="#FEFECE" filter="url(#f1mq4fuxic7k7c)" height="172.5234" id="Chantier" style="stroke:#A80036;stroke-width:1.5;" width="108" x="71.5" y="198"/><ellipse cx="99.55" cy="214" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M102.3156,209.875 Q102.4719,209.6563 102.6594,209.5469 Q102.8469,209.4375 103.0656,209.4375 Q103.4406,209.4375 103.675,209.6953 Q103.9094,209.9531 103.9094,210.5625 L103.9094,212.0156 Q103.9094,212.625 103.675,212.8906 Q103.4406,213.1563 103.0656,213.1563 Q102.7219,213.1563 102.5188,212.9531 Q102.3156,212.7656 102.2063,212.25 Q102.1594,211.8906 101.9719,211.7031 Q101.6438,211.3281 101.0344,211.1094 Q100.425,210.8906 99.8,210.8906 Q99.0344,210.8906 98.4016,211.2188 Q97.7688,211.5469 97.2766,212.2969 Q96.7844,213.0469 96.7844,214.0781 L96.7844,215.1719 Q96.7844,216.4063 97.675,217.2266 Q98.5656,218.0469 100.1594,218.0469 Q101.0969,218.0469 101.7531,217.7969 Q102.1438,217.6406 102.5656,217.2031 Q102.8313,216.9375 102.9797,216.8594 Q103.1281,216.7813 103.3313,216.7813 Q103.6594,216.7813 103.9172,217.0391 Q104.175,217.2969 104.175,217.6406 Q104.175,217.9844 103.8313,218.3906 Q103.3313,218.9688 102.5344,219.2969 Q101.4563,219.75 100.1594,219.75 Q98.6438,219.75 97.4406,219.125 Q96.4563,218.625 95.7688,217.5547 Q95.0813,216.4844 95.0813,215.2031 L95.0813,214.0469 Q95.0813,212.7188 95.6984,211.5703 Q96.3156,210.4219 97.4094,209.8047 Q98.5031,209.1875 99.7375,209.1875 Q100.4719,209.1875 101.1203,209.3516 Q101.7688,209.5156 102.3156,209.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="47" x="116.45" y="218.9102">Chantier</text><line style="stroke:#A80036;stroke-width:1.5;" x1="72.5" x2="178.5" y1="230" y2="230"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="71" x="77.5" y="245.4189">String dateDeb</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="77.5" y="259.2549">String dateFin</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="71" x="77.5" y="273.0908">String adresse</text><line style="stroke:#A80036;stroke-width:1.5;" x1="72.5" x2="178.5" y1="279.5078" y2="279.5078"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="95" x="77.5" y="294.9268">String getDateDeb()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="90" x="77.5" y="308.7627">String getDateFin()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="96" x="77.5" y="322.5986">String getAdresse()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="95" x="77.5" y="336.4346">String setDateDeb()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="90" x="77.5" y="350.2705">String setDateFin()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="96" x="77.5" y="364.1064">String setAdresse()</text><!--MD5=[04d440ec53fb2cc018de6d91273d6939]
+class Affecter--><rect codeLine="43" fill="#FEFECE" filter="url(#f1mq4fuxic7k7c)" height="117.1797" id="Affecter" style="stroke:#A80036;stroke-width:1.5;" width="90" x="136.5" y="431"/><ellipse cx="159.6" cy="447" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M162.3656,442.875 Q162.5219,442.6563 162.7094,442.5469 Q162.8969,442.4375 163.1156,442.4375 Q163.4906,442.4375 163.725,442.6953 Q163.9594,442.9531 163.9594,443.5625 L163.9594,445.0156 Q163.9594,445.625 163.725,445.8906 Q163.4906,446.1563 163.1156,446.1563 Q162.7719,446.1563 162.5688,445.9531 Q162.3656,445.7656 162.2563,445.25 Q162.2094,444.8906 162.0219,444.7031 Q161.6938,444.3281 161.0844,444.1094 Q160.475,443.8906 159.85,443.8906 Q159.0844,443.8906 158.4516,444.2188 Q157.8188,444.5469 157.3266,445.2969 Q156.8344,446.0469 156.8344,447.0781 L156.8344,448.1719 Q156.8344,449.4063 157.725,450.2266 Q158.6156,451.0469 160.2094,451.0469 Q161.1469,451.0469 161.8031,450.7969 Q162.1938,450.6406 162.6156,450.2031 Q162.8813,449.9375 163.0297,449.8594 Q163.1781,449.7813 163.3813,449.7813 Q163.7094,449.7813 163.9672,450.0391 Q164.225,450.2969 164.225,450.6406 Q164.225,450.9844 163.8813,451.3906 Q163.3813,451.9688 162.5844,452.2969 Q161.5063,452.75 160.2094,452.75 Q158.6938,452.75 157.4906,452.125 Q156.5063,451.625 155.8188,450.5547 Q155.1313,449.4844 155.1313,448.2031 L155.1313,447.0469 Q155.1313,445.7188 155.7484,444.5703 Q156.3656,443.4219 157.4594,442.8047 Q158.5531,442.1875 159.7875,442.1875 Q160.5219,442.1875 161.1703,442.3516 Q161.8188,442.5156 162.3656,442.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="40" x="175.4" y="451.9102">Affecter</text><line style="stroke:#A80036;stroke-width:1.5;" x1="137.5" x2="225.5" y1="463" y2="463"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="76" x="142.5" y="478.4189">double nbHeure</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="58" x="142.5" y="492.2549">String debut</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="43" x="142.5" y="506.0908">String fin</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="55" x="142.5" y="519.9268">double paie</text><line style="stroke:#A80036;stroke-width:1.5;" x1="137.5" x2="225.5" y1="526.3438" y2="526.3438"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="78" x="142.5" y="541.7627">double getPaie()</text><ellipse cx="99.5" cy="489.5" fill="#000000" rx="2" ry="2" style="stroke:none;stroke-width:1.0;"/><!--MD5=[8f1e67f110add7575e59c6740599d7d4]
+link Entreprise to Employe--><path codeLine="4" d="M60.96,138.27 C58.3,157.44 55.82,178.52 54.5,198 C44.56,344.3 50.38,516.55 54.84,607.94 " fill="none" id="Entreprise-Employe" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="20" x="33.2606" y="596.9492">0..*</text><!--MD5=[c2de7d0ee42670d9ff0a26fc84907427]
+link Entreprise to Chantier--><path codeLine="5" d="M88.14,138.22 C92.98,157.02 98.33,177.85 103.44,197.73 " fill="none" id="Entreprise-Chantier" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="20" x="80.6848" y="187.1164">0..*</text><!--MD5=[6f6a69356e638fbe259083cb2ddc725a]
+link Chantier to apoint8--><path d="M114.55,371 C108,422.15 100.74,478.85 99.64,487.4 " fill="none" id="Chantier-apoint8" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[47057caf3ac41ec5c2002bccfd1742ee]
+link apoint8 to Employe--><path d="M99.24,491.66 C97.22,500.62 83.92,559.66 73.06,607.89 " fill="none" id="apoint8-Employe" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[8001e366ae5241740694653b049666a7]
+link apoint8 to Affecter--><path d="M101.74,489.5 C113.27,489.5 124.8,489.5 136.32,489.5 " fill="none" id="apoint8-Affecter" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[189c511bad82ee16993da81dc22e7483]
+@startuml diagramme DC
+
+
+
+Entreprise - - "0..*" Employe
+Entreprise - - "0..*" Chantier
+(Chantier,Employe) .. Affecter
+
+
+class Entreprise {
+    String nom
+    String adresse
+
+    String getNom()
+    String getAdresse()
+    String setNom()
+    String setAdresse()
+
+}
+
+class Employe {
+    double salaireHor
+    String coord
+
+    double getSalaire()
+    String getCoord()
+    double setSalaire()
+    String setCoord()
+}
+
+class Chantier {
+    String dateDeb
+    String dateFin
+    String adresse
+
+    String getDateDeb()
+    String getDateFin()
+    String getAdresse()
+    String setDateDeb()
+    String setDateFin()
+    String setAdresse()
+}
+
+class Affecter {
+    double nbHeure
+    String debut
+    String fin
+    double paie
+
+    double getPaie()
+    
+
+}
+
+@enduml
+
+PlantUML version 1.2022.0(Tue Jan 11 17:16:42 CET 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: fr
+Country: FR
+--></g></svg>
